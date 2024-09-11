@@ -1,2 +1,2 @@
 # Network
-Practice of various Network Techniques
+HTTP 1.1 implementation by Golang
